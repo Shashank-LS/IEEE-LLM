@@ -23,7 +23,6 @@ You can install the required packages using pip:
 
 ```bash
 pip install requests pdfplumber pandas
-
 Usage
 Clone the repository:
 
