@@ -23,18 +23,3 @@ You can install the required packages using pip:
 
 ```bash
 pip install requests pdfplumber pandas
-Usage
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-Run the script:
-
-bash
-Copy code
-python your_script_name.py
-Select the PDF document when prompted. The script will analyze the document.
-
-Check the output: The extracted features and testing methods will be saved in features_testing_methods.csv.
