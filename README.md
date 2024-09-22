@@ -21,5 +21,23 @@ To run the script, you'll need:
 
 You can install the required packages using pip:
 
-```bash
+<pre>
 pip install requests pdfplumber pandas
+</pre>
+
+## Usage
+
+1. **Clone the repository:**
+   <pre>
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   </pre>
+
+2. **Run the script:**
+   <pre>
+   python your_script_name.py
+   </pre>
+
+3. **Select the PDF document** when prompted. The script will analyze the document.
+
+4. **Check the output:** The extracted features and testing methods will be saved in `features_testing_methods.csv`.
