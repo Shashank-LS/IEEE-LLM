@@ -29,13 +29,13 @@ pip install requests pdfplumber pandas
 
 1. **Clone the repository:**
    <pre>
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Shashank-LS/IEEE-LLM.git
+   cd IEEE-LLM
    </pre>
 
 2. **Run the script:**
    <pre>
-   python your_script_name.py
+   python RAG-LLaMA.py
    </pre>
 
 3. **Select the PDF document** when prompted. The script will analyze the document.
