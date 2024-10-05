@@ -32,8 +32,8 @@ Before running this project, ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/your-repository.git
-   cd your-repository
+   git clone https://github.com/Shashank-LS/IEEE-LLM.git
+   cd IEEE-LLM
 
 2. Install the required Python libraries:
    ```bash
